@@ -76,7 +76,7 @@ python --version
 
 ### 2. Clone the Repository
 
-git clone https://github.com/yourusername/password-strength-checker.git
+[git clone https://github.com/yourusername/password-strength-checker.git](https://github.com/raheemtoor1-cpu/password.git)
 
 ### 3. Open the Project Folder
 
